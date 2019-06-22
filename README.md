@@ -1,2 +1,2 @@
-# Notebooks
-Store my notebook and images.
+# Image
+Store my images.
